@@ -1,0 +1,6 @@
+segment,customers,sales,profit,avg_recency_days,avg_orders,customer_share_pct,sales_share_pct,avg_sales_per_customer
+Champions,191,915262.82,112539.73,36.61,8.96,24.09,39.84,4791.95
+Loyal,221,816358.78,107311.64,91.01,7.08,27.87,35.54,3693.93
+Potential,183,377076.15,48553.07,151.9,5.4,23.08,16.41,2060.53
+At Risk,143,160989.03,17759.68,246.93,4.1,18.03,7.01,1125.8
+Lost,55,27514.08,232.89,490.38,2.84,6.94,1.2,500.26
