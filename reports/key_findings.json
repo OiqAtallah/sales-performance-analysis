@@ -1,0 +1,393 @@
+{
+  "total_sales": 2297200.86,
+  "total_profit": 286397.02,
+  "total_margin": 12.47,
+  "total_orders": 5009,
+  "total_customers": 793,
+  "yearly": [
+    {
+      "order_year": 2015,
+      "sales": 484247.5,
+      "profit": 49543.97,
+      "orders": 969,
+      "customers": 595,
+      "margin": 10.23,
+      "aov": 499.74,
+      "sales_yoy": null
+    },
+    {
+      "order_year": 2016,
+      "sales": 470532.51,
+      "profit": 61618.6,
+      "orders": 1038,
+      "customers": 573,
+      "margin": 13.1,
+      "aov": 453.31,
+      "sales_yoy": -2.83
+    },
+    {
+      "order_year": 2017,
+      "sales": 609205.6,
+      "profit": 81795.17,
+      "orders": 1315,
+      "customers": 638,
+      "margin": 13.43,
+      "aov": 463.27,
+      "sales_yoy": 29.47
+    },
+    {
+      "order_year": 2018,
+      "sales": 733215.26,
+      "profit": 93439.27,
+      "orders": 1687,
+      "customers": 693,
+      "margin": 12.74,
+      "aov": 434.63,
+      "sales_yoy": 20.36
+    }
+  ],
+  "subcat": [
+    {
+      "sub_category": "Accessories",
+      "sales": 167380.32,
+      "profit": 41936.64,
+      "margin": 25.05,
+      "cagr": 33.82
+    },
+    {
+      "sub_category": "Appliances",
+      "sales": 107532.16,
+      "profit": 18138.01,
+      "margin": 16.87,
+      "cagr": 41.0
+    },
+    {
+      "sub_category": "Art",
+      "sales": 27118.79,
+      "profit": 6527.79,
+      "margin": 24.07,
+      "cagr": 13.52
+    },
+    {
+      "sub_category": "Binders",
+      "sales": 203412.73,
+      "profit": 30221.76,
+      "margin": 14.86,
+      "cagr": 18.73
+    },
+    {
+      "sub_category": "Bookcases",
+      "sales": 114880.0,
+      "profit": -3472.56,
+      "margin": -3.02,
+      "cagr": 14.43
+    },
+    {
+      "sub_category": "Chairs",
+      "sales": 328449.1,
+      "profit": 26590.17,
+      "margin": 8.1,
+      "cagr": 7.35
+    },
+    {
+      "sub_category": "Copiers",
+      "sales": 149528.03,
+      "profit": 55617.82,
+      "margin": 37.2,
+      "cagr": 79.64
+    },
+    {
+      "sub_category": "Envelopes",
+      "sales": 16476.4,
+      "profit": 6964.18,
+      "margin": 42.27,
+      "cagr": -4.31
+    },
+    {
+      "sub_category": "Fasteners",
+      "sales": 3024.28,
+      "profit": 949.52,
+      "margin": 31.4,
+      "cagr": 9.05
+    },
+    {
+      "sub_category": "Furnishings",
+      "sales": 91705.16,
+      "profit": 13059.14,
+      "margin": 14.24,
+      "cagr": 27.88
+    },
+    {
+      "sub_category": "Labels",
+      "sales": 12486.31,
+      "profit": 5546.25,
+      "margin": 44.42,
+      "cagr": 10.76
+    },
+    {
+      "sub_category": "Machines",
+      "sales": 189238.63,
+      "profit": 3384.76,
+      "margin": 1.79,
+      "cagr": -11.12
+    },
+    {
+      "sub_category": "Paper",
+      "sales": 78479.21,
+      "profit": 34053.57,
+      "margin": 43.39,
+      "cagr": 23.13
+    },
+    {
+      "sub_category": "Phones",
+      "sales": 330007.05,
+      "profit": 44515.73,
+      "margin": 13.49,
+      "cagr": 10.82
+    },
+    {
+      "sub_category": "Storage",
+      "sales": 223843.61,
+      "profit": 21278.83,
+      "margin": 9.51,
+      "cagr": 11.45
+    },
+    {
+      "sub_category": "Supplies",
+      "sales": 46673.54,
+      "profit": -1189.1,
+      "margin": -2.55,
+      "cagr": 3.7
+    },
+    {
+      "sub_category": "Tables",
+      "sales": 206965.53,
+      "profit": -17725.48,
+      "margin": -8.56,
+      "cagr": 9.73
+    }
+  ],
+  "bands": [
+    {
+      "discount_band": "0%",
+      "lines": 4798,
+      "sales": 1087908.47,
+      "profit": 320987.6,
+      "qty": 3.81,
+      "loss_pct": 0.0,
+      "margin": 29.51,
+      "share": 47.36
+    },
+    {
+      "discount_band": "1-10%",
+      "lines": 94,
+      "sales": 54369.35,
+      "profit": 9029.18,
+      "qty": 3.97,
+      "loss_pct": 0.04,
+      "margin": 16.61,
+      "share": 2.37
+    },
+    {
+      "discount_band": "11-20%",
+      "lines": 3709,
+      "sales": 792152.89,
+      "profit": 91756.3,
+      "qty": 3.74,
+      "loss_pct": 0.14,
+      "margin": 11.58,
+      "share": 34.48
+    },
+    {
+      "discount_band": "21-30%",
+      "lines": 227,
+      "sales": 103226.66,
+      "profit": -10369.28,
+      "qty": 3.74,
+      "loss_pct": 0.92,
+      "margin": -10.05,
+      "share": 4.49
+    },
+    {
+      "discount_band": "31-50%",
+      "lines": 310,
+      "sales": 195314.76,
+      "profit": -48447.73,
+      "qty": 3.8,
+      "loss_pct": 0.92,
+      "margin": -24.8,
+      "share": 8.5
+    },
+    {
+      "discount_band": ">50%",
+      "lines": 856,
+      "sales": 64228.74,
+      "profit": -76559.05,
+      "qty": 3.91,
+      "loss_pct": 1.0,
+      "margin": -119.2,
+      "share": 2.8
+    }
+  ],
+  "profit_lo": 421773.08,
+  "loss_hi": -135376.06,
+  "hi_sales_share": 15.79,
+  "hi_lines_share": 13.94,
+  "leak_pct": 32.1,
+  "zero_disc_margin": 29.51,
+  "loss_by_year": {
+    "2015": 31892.77,
+    "2016": 32529.39,
+    "2017": 37872.93,
+    "2018": 53836.19
+  },
+  "avg_discount_by_year": {
+    "2015": 15.83,
+    "2016": 15.56,
+    "2017": 15.47,
+    "2018": 15.65
+  },
+  "new_vs_returning": [
+    {
+      "order_year": 2015,
+      "new": 595.0,
+      "returning": 0.0,
+      "new_sales": 484247.5,
+      "returning_sales": 0.0
+    },
+    {
+      "order_year": 2016,
+      "new": 136.0,
+      "returning": 437.0,
+      "new_sales": 105388.5,
+      "returning_sales": 365144.01
+    },
+    {
+      "order_year": 2017,
+      "new": 51.0,
+      "returning": 587.0,
+      "new_sales": 54803.62,
+      "returning_sales": 554401.98
+    },
+    {
+      "order_year": 2018,
+      "new": 11.0,
+      "returning": 682.0,
+      "new_sales": 7511.8,
+      "returning_sales": 725703.45
+    }
+  ],
+  "retention": {
+    "2015": 73.45,
+    "2016": 78.88,
+    "2017": 87.46
+  },
+  "pct_repeat_customers": 98.49,
+  "median_orders_per_customer": 6.0,
+  "top20_share": 47.96,
+  "region": [
+    {
+      "region": "Central",
+      "sales": 501239.89,
+      "profit": 39706.36,
+      "margin": 7.92
+    },
+    {
+      "region": "East",
+      "sales": 678781.24,
+      "profit": 91522.78,
+      "margin": 13.48
+    },
+    {
+      "region": "South",
+      "sales": 391721.9,
+      "profit": 46749.43,
+      "margin": 11.93
+    },
+    {
+      "region": "West",
+      "sales": 725457.82,
+      "profit": 108418.45,
+      "margin": 14.94
+    }
+  ],
+  "segment": [
+    {
+      "segment": "Consumer",
+      "sales": 1161401.34,
+      "profit": 134119.21,
+      "margin": 11.55
+    },
+    {
+      "segment": "Corporate",
+      "sales": 706146.37,
+      "profit": 91979.13,
+      "margin": 13.03
+    },
+    {
+      "segment": "Home Office",
+      "sales": 429653.15,
+      "profit": 60298.68,
+      "margin": 14.03
+    }
+  ],
+  "region_discount": [
+    {
+      "region": "Central",
+      "avg_discount": 24.04,
+      "hi_disc_line_share": 27.68,
+      "profit_hi_disc": -52392.27,
+      "margin": 7.92,
+      "margin_excl_hi_disc": 24.75
+    },
+    {
+      "region": "East",
+      "avg_discount": 14.54,
+      "hi_disc_line_share": 16.19,
+      "profit_hi_disc": -42088.61,
+      "margin": 13.48,
+      "margin_excl_hi_disc": 25.07
+    },
+    {
+      "region": "South",
+      "avg_discount": 14.73,
+      "hi_disc_line_share": 10.56,
+      "profit_hi_disc": -24880.48,
+      "margin": 11.93,
+      "margin_excl_hi_disc": 22.31
+    },
+    {
+      "region": "West",
+      "avg_discount": 10.93,
+      "hi_disc_line_share": 3.68,
+      "profit_hi_disc": -16014.69,
+      "margin": 14.94,
+      "margin_excl_hi_disc": 17.57
+    }
+  ],
+  "tables_hi_share": 55.17,
+  "tables_profit_lo": 12972.74,
+  "tables_profit_hi": -30698.22,
+  "machines": [
+    {
+      "order_year": 2015,
+      "sales": 62023.37,
+      "profit": 369.17
+    },
+    {
+      "order_year": 2016,
+      "sales": 27763.7,
+      "profit": 2977.49
+    },
+    {
+      "order_year": 2017,
+      "sales": 55906.89,
+      "profit": 2907.32
+    },
+    {
+      "order_year": 2018,
+      "sales": 43544.68,
+      "profit": -2869.22
+    }
+  ]
+}
